@@ -1,0 +1,9 @@
+Alice Johnson, 123 Maple St, 555-1234, Mobile
+Bob Smith, 456 Oak St, 555-5678, Landline
+Charlie Brown, 789 Pine St, 555-9101, Mobile
+David Wilson, 321 Birch St, 555-1122, Landline
+Emma Davis, 654 Cedar St, 555-3344, Mobile
+Frank Thomas, 987 Elm St, 555-5566, Landline
+Grace Harris, 159 Spruce St, 555-7788, Mobile
+Henry Adams, 753 Walnut St, 555-9900, Landline
+Ivy White, 852 Chestnut St, 555-2233, Mobile
